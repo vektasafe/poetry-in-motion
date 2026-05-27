@@ -142,8 +142,6 @@ Phase 3 (real recommendations, verified sustainability, EAC expansion) cannot st
 
 ## References
 
-This document synthesises all Phase 1 research. It does not introduce new claims. Every statement above is traceable to a specific document in the pyramid below it.
-
 - 00-foundation/FOUNDATION.md
 - 01-global/LANDSCAPE.md
 - 01-global/INDUSTRY-ECOMMERCE.md
