@@ -1,6 +1,6 @@
 # Poetry in Motion: Project Structure
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Living document, Phase 1 technical foundation
 Scope: How the repository is organised today; layered architecture; mapping from research to code
 Cross-reference: 00-foundation/FOUNDATION.md, 01-global/LANDSCAPE.md, 04-technical-research/OPEN-SOURCE-REFERENCE.md

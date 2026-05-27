@@ -1,6 +1,6 @@
 # Poetry in Motion: Open-Source and Public E-Commerce Projects
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 technical intelligence (GitHub API and public documentation, May 2026)
 Purpose: Map enterprise-grade and fashion-adjacent public codebases that Poetry in Motion can learn from, not blindly fork
 Cross-reference: 04-technical-research/PROJECT-STRUCTURE.md, 01-global/INDUSTRY-ECOMMERCE.md, 05-critical-review/CRITICAL-REVIEW.md

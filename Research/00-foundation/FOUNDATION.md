@@ -1,6 +1,6 @@
 # Poetry in Motion: Foundation
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Category: Fashion technology, ethical e-commerce
 Status: Phase 1, research foundation (in progress)
 Product name: Poetry in Motion (the legacy in-app label StyleAI is to be retired in code)

@@ -1,6 +1,6 @@
 # Poetry in Motion: Unit Economics
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 draft. Variables sourced from research. Unknowns marked for Phase 2 validation.
 Cross-reference: 02-africa/KENYA.md, 03-market-intelligence/ENTITIES.md, 06-mvp/MVP.md
 Last updated: June 2026

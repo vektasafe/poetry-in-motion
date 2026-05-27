@@ -1,6 +1,6 @@
 # Poetry in Motion: MVP Definition
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 apex document. Defines the Phase 2 engineering starting point.
 Cross-reference: All Phase 1 documents. This document is the output of the pyramid.
 Last updated: May 2026

@@ -1,6 +1,6 @@
 # Poetry in Motion: Africa E-Commerce and Fashion
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 market intelligence, web-sourced
 Scope: Continental Africa e-commerce and fashion industry context
 Cross-reference: 01-global/INDUSTRY-ECOMMERCE.md, 01-global/INDUSTRY-FASHION.md, 02-africa/EAST-AFRICA.md

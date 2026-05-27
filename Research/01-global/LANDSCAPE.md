@@ -1,6 +1,6 @@
 # Poetry in Motion: E-Commerce and Fashion Landscape
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Living research document, Phase 1 foundation
 Scope: Global industrial e-commerce history; fashion's convergence with digital commerce; implications for Poetry in Motion
 Cross-reference: 00-foundation/FOUNDATION.md, 01-global/INDUSTRY-ECOMMERCE.md, 01-global/INDUSTRY-FASHION.md, 04-technical-research/PROJECT-STRUCTURE.md

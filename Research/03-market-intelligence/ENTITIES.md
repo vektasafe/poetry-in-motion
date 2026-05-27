@@ -1,6 +1,6 @@
 # Poetry in Motion: Entity Intelligence
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Living document, Phase 1 deep entity research (May 2026)
 Scope: Market participants whose strategies, economics, or infrastructure define the terrain for Poetry in Motion
 Cross-reference: 02-africa/KENYA.md, 01-global/LANDSCAPE.md, 01-global/INDUSTRY-ECOMMERCE.md, 01-global/INDUSTRY-FASHION.md, 04-technical-research/OPEN-SOURCE-REFERENCE.md, 05-critical-review/CRITICAL-REVIEW.md

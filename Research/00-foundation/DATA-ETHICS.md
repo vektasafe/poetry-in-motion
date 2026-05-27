@@ -1,6 +1,6 @@
 # Poetry in Motion: Data Ethics
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Draft, enforceable rules for P0 before public users
 Cross-reference: 05-critical-review/CRITICAL-REVIEW.md, section 6.5
 

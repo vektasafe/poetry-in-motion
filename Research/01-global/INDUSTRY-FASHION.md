@@ -1,6 +1,6 @@
 # Poetry in Motion: Fashion as Business and Industry
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 supplementary research, web-sourced
 Method: McKinsey/BoF, resale reports, market aggregators (May 2026)
 Cross-reference: 01-global/LANDSCAPE.md, 01-global/INDUSTRY-ECOMMERCE.md, 02-africa/AFRICA.md, 05-critical-review/CRITICAL-REVIEW.md

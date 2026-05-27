@@ -1,6 +1,6 @@
 # Poetry in Motion: E-Commerce as Business and Industry
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 supplementary research, web-sourced
 Method: Public industry reports, trade data, marketplace benchmarks (May 2026)
 Cross-reference: 01-global/LANDSCAPE.md, 01-global/INDUSTRY-FASHION.md, 02-africa/AFRICA.md

@@ -1,6 +1,6 @@
 # Contributing to Poetry in Motion Research
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Last updated: June 2026
 
 ---

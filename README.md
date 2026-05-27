@@ -1,6 +1,6 @@
 # Research: Poetry in Motion
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Research model: Adapted from the Ganji Protocol. Structured from broad foundation through market and geographic layers, converging at the apex on a single MVP definition that initiates Phase 2 engineering.
 
 ---

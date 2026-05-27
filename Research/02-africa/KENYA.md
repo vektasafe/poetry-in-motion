@@ -1,6 +1,6 @@
 # Poetry in Motion: Kenya E-Commerce and Fashion
 
-Author: James Kabingu, Vektasafe
+Authors: Silvester Ndaigiri and James Kabingu, Vektasafe
 Status: Phase 1 market intelligence, web-sourced and confirmed where noted
 Scope: Kenya-specific e-commerce, fashion, payments, logistics, and regulatory context
 Cross-reference: 02-africa/EAST-AFRICA.md, 03-market-intelligence/ENTITIES.md, 00-foundation/DATA-ETHICS.md
