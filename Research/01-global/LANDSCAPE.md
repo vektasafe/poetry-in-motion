@@ -178,13 +178,13 @@ Lesson: Poetry in Motion's live sessions, referrals, and community outfits align
 
 ### 3.2 What to Reject or Redesign
 
-| Historical pattern | Risk | Poetry in Motion response |
-|--------------------|------|---------------------------|
-| Race-to-bottom price | Maker poverty, waste | Creator revenue share; circular modules |
-| Opaque algorithms | Bias, exclusion | Explicit profile inputs; representation pillar |
-| Bolt-on sustainability | Greenwashing | Impact metrics tied to SKU data when verified |
-| Platform rent extraction | Low creator margin | Voting and production lifecycle |
-| Infinite scroll | Decision fatigue | Intelligence over scroll positioning |
+| Historical pattern | Risk | Poetry in Motion response | Acceptance criterion |
+|--------------------|------|---------------------------|----------------------|
+| Race-to-bottom price | Maker poverty, waste | Creator revenue share; circular modules | No product is listed at a price that results in a negative creator margin after platform commission and payment fees. Creator margin is confirmed at onboarding before listing. |
+| Opaque algorithms | Bias, exclusion | Explicit profile inputs; representation pillar | Every recommendation response includes an algorithm field stating the scoring method in plain language. No recommendation is served without a readable explanation of why it was ranked. |
+| Bolt-on sustainability | Greenwashing | Impact metrics tied to SKU data when verified | No CO2, water, or verified label appears on any product without a sustainabilitySourceId in the database pointing to an auditable record. UI copy when absent: "Impact data not yet verified for this item." |
+| Platform rent extraction | Low creator margin | Voting and production lifecycle | Platform take rate is documented in the creator agreement before onboarding. Take rate is not changed without 30 days written notice to active creators. |
+| Infinite scroll | Decision fatigue | Intelligence over scroll positioning | The default recommendations view returns a maximum of 12 products. Pagination or load-more is opt-in, not automatic. |
 
 ### 3.3 Position in the Landscape
 

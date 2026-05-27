@@ -15,6 +15,14 @@ If any Phase 2 engineering decision contradicts this document, the contradiction
 
 ---
 
+## Sign-off
+
+Wedge confirmed by: _____________________________ Date: _____________
+
+Until this field is signed, this document is a proposal, not a decision. Phase 2 engineering does not start until this is filled.
+
+---
+
 ## The Wedge
 
 One sentence: Poetry in Motion's Phase 2 MVP is an AI-assisted style quiz and curated micro-catalog connecting Nairobi women to verified local creators, with M-Pesa checkout and WhatsApp-native sharing.
