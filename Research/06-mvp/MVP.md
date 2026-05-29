@@ -17,7 +17,7 @@ If any Phase 2 engineering decision contradicts this document, the contradiction
 
 ## Sign-off
 
-Wedge confirmed by: _____________________________ Date: _____________
+Wedge confirmed by: Silvester Ndaigiri and James Kabingu, Vektasafe Date: June 2026
 
 Until this field is signed, this document is a proposal, not a decision. Phase 2 engineering does not start until this is filled.
 
@@ -147,6 +147,23 @@ Phase 3 (real recommendations, verified sustainability, EAC expansion) cannot st
 - One logistics partner with a signed SLA
 
 ---
+
+## Pending P0 Items
+
+The following P0 items from CRITICAL-REVIEW.md and the Honesty Requirements are not yet resolved. They must be completed before any public user touches the product.
+
+- [ ] ODPC registration completed (MVP Honesty Requirement 6)
+- [ ] Creator agreement template signed by all onboarded creators (MVP Honesty Requirement 7)
+- [ ] One‑page strategy document created (CRITICAL‑REVIEW 6.1)
+- [ ] Link to CRITICAL‑REVIEW added to README (CRITICAL‑REVIEW 6.2)
+- [ ] Founder sign‑off on MVP wedge (this document, sign‑off field above)
+- [ ] Creator revenue share contradiction resolved (40‑50% vs 82‑90%)
+- [ ] M‑Pesa checkout implementation (Paystack or Daraja API access)
+- [ ] Primary research interviews (two interviews, write‑up in 02‑africa/PRIMARY‑RESEARCH.md)
+- [ ] Technical infrastructure gates (database, auth, payments, creator payout rails)
+- [ ] Legal and compliance gates (Kenya Data Protection Act compliance, pre‑owned authenticity policy, creator agreement draft, children’s data protection)
+- [ ] Market validation gates (East Africa entity research, logistics partner, creator onboarding)
+- [ ] Sign‑off checklist for Phase 2 start (all of the above)
 
 ## References
 
