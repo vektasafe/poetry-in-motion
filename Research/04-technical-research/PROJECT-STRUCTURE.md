@@ -99,6 +99,10 @@ Historical anchor: Amazon account and order history; GDPR-era consent (Phase 4).
 
 Historical anchor: Shopify enablement and checkout; Africa COD and mobile money (01-global/LANDSCAPE.md section 2.7 and 02-africa/KENYA.md).
 
+#### Layer 2 Design Constraint: What We Inherit vs What We Override
+
+Poetry in Motion inherits Layer 2 from Amazon/eBay/Shopify: reliable checkout, cart, order fulfillment. This is intentional. What we override: race-to-bottom pricing (margin-first, not volume), algorithmic opacity (sort order documented), infinite scroll (max 12 items default, load-more opt-in), generic creators (revenue routed to named beneficiaries). This constraint prevents scope inflation while keeping infrastructure sound.
+
 ### Layer 3: Personalisation and AI [IMPLEMENTED] mock
 
 | Concern | Routes and files | Production gap |
