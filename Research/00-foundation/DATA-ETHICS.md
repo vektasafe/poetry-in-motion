@@ -49,3 +49,13 @@ DEMO_MODE deployments: no real payments, a visible banner indicating demo status
 ## 6. Review Triggers
 
 This document is revisited when any of the following occur: minors are added as a user segment, EU users are targeted, automated profiling is introduced, or Kenya Data Protection Act or GDPR-equivalent rights obligations change.
+
+## 7. Age Gate and Minors
+
+Status: Draft, P0 — addresses CRITICAL-REVIEW.md Part 11.6 item 7
+
+1. Poetry in Motion is intended for users 18 and older. The platform is not designed or marketed for minors.
+2. At account creation, users must confirm they are 18 or older via a checkbox or date-of-birth field. This is a self-attestation, not an age-verification system, consistent with the current Phase 1/2 scope.
+3. No parental consent flow exists. Because the platform does not currently support minors as a user segment, none is required at this stage.
+4. If a user is discovered or reported to be under 18, their account and associated data are suspended and scheduled for deletion under the existing retention rules in Section 2.6.
+5. This policy is a placeholder appropriate to a pre-launch, pre-real-payment product. It must be revisited (per Section 6, Review Triggers) before any of the following: marketing the platform to under-18 audiences, observing meaningful underage signups, or expanding to a market with stricter minor-protection requirements than Kenya's Data Protection Act.
